@@ -16,9 +16,12 @@ section{
     flex-direction: column;
 }
 button{
-    width: 35px;
+    width: 45px;
     height: 35px;
     border-radius: 45px;
+    margin-left: 15px;
+    background-color: red;
+    border:1px solid black;
 }
 .contextInput{
     flex-direction: column;
